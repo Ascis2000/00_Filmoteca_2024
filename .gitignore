@@ -1,0 +1,9 @@
+
+# Ignorar dependencias de Node.js (backend)
+backend/node_modules/
+
+# Ignorar dependencias de React (frontend)
+frontend/node_modules/
+
+# Ignorar archivos de entorno
+backend/.env

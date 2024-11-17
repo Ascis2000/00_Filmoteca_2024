@@ -1,0 +1,10 @@
+
+npm install
+npm i pg
+npm i dotenv
+npm i express
+npm i bcryptjs
+npm i mongoose
+npm i jsonwebtoken
+
+npm i -D nodemon
